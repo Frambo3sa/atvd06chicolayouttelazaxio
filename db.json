@@ -1,0 +1,67 @@
+{
+    "contatos": [
+      {
+        "id": 1,
+        "nome": "Morritz Zimmerman",
+        "mensagem": "Consegui hackear a BonnusLife",
+        "tempo": "3 min atrás",
+        "avatar": "https://observatoriodocinema.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?format=.png&quality=91&imagick=uploads-observatoriodocinema.seox.com.br/2025/04/image-1024x691.png"
+      },
+      {
+        "id": 2,
+        "nome": "Marteen Holândes Matador",
+        "mensagem": "O prazo acaba amanhã",
+        "tempo": "5 min atrás",
+        "avatar": "https://br.web.img3.acsta.net/pictures/22/07/05/10/05/5727754.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Vinyzada do Android",
+        "mensagem": "Cadê você aqui, gelado?",
+        "tempo": "1h atrás",
+        "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Boyzinha S2",
+        "mensagem": "Não é você, sou eu :(",
+        "tempo": "2h atrás",
+        "avatar": "https://static.vecteezy.com/ti/vetor-gratis/t1/18765757-icone-de-perfil-de-usuario-em-estilo-simples-ilustracao-em-avatar-membro-no-fundo-isolado-conceito-de-negocio-de-sinal-de-permissao-humana-vetor.jpg"
+      },
+      {
+        "id": 5,
+        "nome": "John Johniss",
+        "mensagem": "E aí safado, vai sexta?",
+        "tempo": "5h atrás",
+        "avatar": "https://i1.sndcdn.com/artworks-bPeIciscUXM2pr0Y-yMnJhg-t1080x1080.jpg"
+      },
+      {
+        "id": 6,
+        "nome": "Cara da Pelada",
+        "mensagem": "R$300,00 por 2 horas",
+        "tempo": "Ontem",
+        "avatar": "https://simoesfilho.ba.gov.br/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-13-at-09.37.35.jpeg"
+      },
+      {
+        "id": 7,
+        "nome": "Galega do Crime",
+        "mensagem": "Tá fazendo o que agora?",
+        "tempo": "Ontem",
+        "avatar": "https://randomuser.me/api/portraits/women/15.jpg"
+      },
+      {
+        "id": 8,
+        "nome": "chatao da escola",
+        "mensagem": "fe?",
+        "tempo": "5h atrás",
+        "avatar": "https://i1.sndcdn.com/artworks-bPeIciscUXM2pr0Y-yMnJhg-t1080x1080.jpg"
+      },
+      {
+        "id": 9,
+        "nome": "cria da b2",
+        "mensagem": "fé",
+        "tempo": "2h atrás",
+        "avatar": ""
+      }
+    ]
+  }
